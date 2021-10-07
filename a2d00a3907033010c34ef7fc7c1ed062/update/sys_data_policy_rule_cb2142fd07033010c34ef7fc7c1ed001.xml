@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 22:34:01</sys_created_on>
+        <sys_data_policy display_value="Sets the Name field to mandatory">c72102fd07033010c34ef7fc7c1ed0ff</sys_data_policy>
+        <sys_id>cb2142fd07033010c34ef7fc7c1ed001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_package display_value="My app 2" source="a2d00a3907033010c34ef7fc7c1ed062">a2d00a3907033010c34ef7fc7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My app 2">a2d00a3907033010c34ef7fc7c1ed062</sys_scope>
+        <sys_update_name>sys_data_policy_rule_cb2142fd07033010c34ef7fc7c1ed001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 22:34:01</sys_updated_on>
+        <table>u_user</table>
+    </sys_data_policy_rule>
+</record_update>
